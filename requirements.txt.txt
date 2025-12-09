@@ -1,0 +1,10 @@
+streamlit
+tensorflow-cpu
+opencv-python-headless
+numpy
+Pillow
+matplotlib
+seaborn
+scikit-learn
+pandas
+supabase
